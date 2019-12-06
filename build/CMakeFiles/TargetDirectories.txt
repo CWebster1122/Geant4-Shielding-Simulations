@@ -1,0 +1,2 @@
+/volumes/MacintoshHD2/MINER/Miner/B2x/build/CMakeFiles/exampleB2a.dir
+/volumes/MacintoshHD2/MINER/Miner/B2x/build/CMakeFiles/scripts.dir

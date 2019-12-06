@@ -1,0 +1,67 @@
+/run/initialize 
+/gun/particle neutron 
+/gun/energy 0.0454545454545 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.136363636364 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.227272727273 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.318181818182 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.409090909091 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.5 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.590909090909 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.681818181818 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.772727272727 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.863636363636 MeV 
+/run/beamOn 11 
+/gun/particle neutron 
+/gun/energy 0.954545454545 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.0454545454545 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.136363636364 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.227272727273 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.318181818182 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.409090909091 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.5 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.590909090909 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.681818181818 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.772727272727 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.863636363636 MeV 
+/run/beamOn 11 
+/gun/particle gamma 
+/gun/energy 0.954545454545 MeV 
+/run/beamOn 11 
